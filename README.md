@@ -1,4 +1,4 @@
-## Hi, I’m Abeed 👋
+## Hi, I’m Abeed Mulla 👋
 
 🎓 Honours Computer Science student at Dalhousie University  
 💻 Aspiring Software Developer with interests across full-stack, backend, systems, and data  
