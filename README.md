@@ -42,8 +42,6 @@ A web application to track internship applications and analyze resume–job matc
 🔗 **Live Demo**: https://interntrack-henna.vercel.app  
 📦 **GitHub Repo**: https://github.com/AbeedMulla/interntrack
 
-Option 1 (clean + recruiter-friendly)
-
 **StudentHub**
 A context-aware Android app that helps students manage classes, assignments, and focus sessions with smart reminders and offline sync.
 
