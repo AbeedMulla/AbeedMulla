@@ -52,6 +52,16 @@ A context-aware Android app that helps students manage classes, assignments, and
 
 📦 **GitHub Repo**: https://github.com/AbeedMulla/studenthub
 
+Custom HTTP Server & Reverse Proxy
+A from-scratch HTTP server + reverse proxy built using only Node.js raw TCP sockets (no frameworks, no http module). Implements manual HTTP parsing, request forwarding, and round-robin load balancing across multiple backend instances.
+
+- Custom HTTP request/response parsing over TCP
+- Reverse proxy that forwards /api/* to backend services
+- Round-robin load balancing and basic health handling
+- Logging and request timing for observability
+
+📦 GitHub Repo: https://github.com/AbeedMulla/http-server-proxy
+
 ---
 
 ### 📫 Let’s Connect
