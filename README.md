@@ -29,7 +29,7 @@ Critical Thinking, Problem-Solving, Communication, Team Collaboration, Data-Driv
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
 
 **InternTracker**  
 A web application to track internship applications and analyze resume–job matching using keywords.
